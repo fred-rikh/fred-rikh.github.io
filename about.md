@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Контакты
+permalink: /contacts/
 ---
+ Нуралы
++996 700 770570
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
++996 999 770570
